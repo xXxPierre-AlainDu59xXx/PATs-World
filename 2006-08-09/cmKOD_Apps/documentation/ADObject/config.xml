@@ -1,0 +1,21 @@
+<app_adobj_details xmlid="">
+  <cfg id="urm.test_1" xslid="25000" progid="cmKOD_ADObjectPlugIn.Sample" method="Exec">
+    <template>
+      <anynode>
+        <properties>
+          <property mode="1">
+            <name>Guid</name>
+          </property>
+          <property>
+            <name>memberOf</name>
+          </property>
+          <property>
+            <name>distinguishedName</name>
+          </property>
+        </properties>
+      </anynode>
+    </template>
+    <!-- optional : missing element / value = []/[*] : get any dc -->
+    <dcfqdn>muc810t.urm.test</dcfqdn>
+  </cfg>
+</app_adobj_details>

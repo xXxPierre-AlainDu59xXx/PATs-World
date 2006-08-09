@@ -1,0 +1,230 @@
+<cfg>
+  <xmls>
+    <xml id="25050" userelpath="1">XML\logon.xml</xml>
+    <xml id="25051" userelpath="1">XML\logoff.xml</xml>
+    <xml id="999" userelpath="1">XML\logoff.xml</xml>
+  </xmls>
+  <xsls>
+    <xsl id="25000" userelpath="1">xsl\copy.xsl</xsl>
+  </xsls>
+  <app_adobj_details xmlid="">
+
+    <cfg id="minisync" xslid="25000" aprogid="" amethod="">
+      <template>
+        <properties>
+          <property>
+            <name>distinguishedName</name>
+          </property>
+          <property>
+            <name>samAccountName</name>
+          </property>
+          <property>
+            <name>member</name>
+          </property>
+        </properties>
+      </template>
+      <!-- optional : missing element / value = []/[*] : get any dc -->
+      <dcfqdn>muc701t.urm.test</dcfqdn>
+    </cfg>
+
+    <cfg id="urm.test_2" xslid="25000" progid="cmKOD_ADObjectPlugIn.Sample" method="Exec">
+      <template>
+        <anynode>
+          <properties>
+            <property>
+              <name>memberOf</name>
+            </property>
+          </properties>
+
+        </anynode>
+      </template>
+      <!-- optional : missing element / value = []/[*] : get any dc -->
+      <dcfqdn>*</dcfqdn>
+    </cfg>
+
+    <cfg id="urm.test_1" xslid="25000" aprogid="cmKOD_ADObjectPlugIn.Sample" amethod="Exec">
+
+      <template>
+
+        <anynode>
+          <anynode>
+
+            <properties>
+
+              <property mode="1">
+                <name>Guid</name>
+              </property>
+              <property mode="1">
+                <name>objectGuid</name>
+              </property>
+              <property mode="1">
+                <name>objectSid</name>
+              </property>
+
+              <property mode="1">
+                <name>userParameters</name>
+              </property>
+
+              <property mode="1">
+                <name>memberOf</name>
+              </property>
+
+              <property mode="1">
+                <name>somenotexistingbullshit</name>
+              </property>
+
+              <property mode="0">
+                <name>pwdLastSet</name>
+              </property>
+              <property mode="1">
+                <name>PasswordLastChanged</name>
+              </property>
+
+              <property mode="0">
+                <name>lastLogon</name>
+              </property>
+              <property mode="1">
+                <name>lastLogin</name>
+              </property>
+
+              <property mode="1">
+                <name>whenCreated</name>
+              </property>
+              <property mode="0">
+                <name>whenCreated</name>
+              </property>
+
+              <property>
+                <name>facsimileTelephoneNumber</name>
+              </property>
+
+              <property>
+                <name>msExchPoliciesIncluded</name>
+              </property>
+
+              <property>
+                <name>msExchMailboxSecurityDescriptor</name>
+              </property>
+
+              <property>
+                <name>msExchADCGlobalNames</name>
+              </property>
+
+              <property>
+                <name>telephoneAssistant</name>
+              </property>
+
+              <property>
+                <name>userSMIMECertificate</name>
+              </property>
+
+              <property>
+                <name>showInAddressBook</name>
+              </property>
+
+              <property>
+                <name>objectSid</name>
+              </property>
+
+              <property>
+                <name>objectcategory</name>
+              </property>
+
+              <property>
+                <name>logonCount</name>
+              </property>
+
+              <property>
+                <name>dSCorePropagationData</name>
+              </property>
+
+              <property>
+                <name>badPwdCount</name>
+              </property>
+
+              <property>
+                <name>accountExpires</name>
+              </property>
+
+              <property>
+                <name>msExchHomeServerName</name>
+              </property>
+
+              <property>
+                <name>msExchMailboxGuid</name>
+              </property>
+
+              <property>
+                <name>msExchADCGlobalNames</name>
+              </property>
+
+              <property>
+                <name>userAccountControl</name>
+              </property>
+
+              <property>
+                <name>pwdLastSet</name>
+              </property>
+
+              <property>
+                <name>UsnCreated</name>
+              </property>
+
+              <property>
+                <name>memberOf</name>
+              </property>
+
+              <property>
+                <name>userParameters</name>
+              </property>
+
+              <property>
+                <name>sn</name>
+                <value></value>
+                <value></value>
+                <value></value>
+                <value></value>
+                <value></value>
+                <value></value>
+                <value></value>
+                <value></value>
+              </property>
+              <property>
+                <name>objectclass</name>
+                <value></value>
+                <value></value>
+                <value></value>
+              </property>
+              <property>
+                <name>objectGUID</name>
+                <value></value>
+                <value></value>
+              </property>
+              <property>
+                <name>whenChanged</name>
+                <value></value>
+              </property>
+
+              <property>
+                <name>whenCreated</name>
+                <value></value>
+              </property>
+
+              <property>
+                <name>instanceType</name>
+              </property>
+
+            </properties>
+
+          </anynode>
+        </anynode>
+
+      </template>
+
+      <dcfqdn>*</dcfqdn>
+
+    </cfg>
+
+  </app_adobj_details>
+
+</cfg>
