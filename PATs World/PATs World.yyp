@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1e057d66-e4d5-4213-82c7-f7e8c0a56940",
+            "Value": {
+                "id": "f6dce223-6163-4010-87f9-23f9a26f766f",
+                "resourcePath": "objects\\Chef\\Chef.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ba26f0e-c5b6-4974-8db3-609dc15dc738",
             "Value": {
                 "id": "b07fd9f6-0f65-4694-9dfa-b0e87529ab1b",
