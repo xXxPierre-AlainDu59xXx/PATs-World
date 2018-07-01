@@ -95,6 +95,22 @@
             }
         },
         {
+            "Key": "6ec7b3ea-1c17-4c35-a5ab-b4b07e011f30",
+            "Value": {
+                "id": "e1626684-6dda-4753-bf31-360f728d0eac",
+                "resourcePath": "objects\\Inventaire\\Inventaire.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "820574ab-719a-4684-97bd-e6b736134814",
+            "Value": {
+                "id": "37165e49-829d-43db-9f5a-216e0a137205",
+                "resourcePath": "objects\\Case\\Case.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a042c27b-1c24-47e6-9d5a-9fb623ef2d3e",
             "Value": {
                 "id": "ee6363cd-1bd9-4080-b0bd-460d46c91efa",
@@ -124,6 +140,14 @@
                 "id": "c9105a7f-3ffe-493a-878f-24b172b705b4",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aef88ee0-60f4-468a-8447-728e746567d3",
+            "Value": {
+                "id": "af98d304-47a5-4a50-8286-4092398e9ce7",
+                "resourcePath": "objects\\Inventaire_Case\\Inventaire_Case.yy",
+                "resourceType": "GMObject"
             }
         },
         {
