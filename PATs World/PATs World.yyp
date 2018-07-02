@@ -143,10 +143,10 @@
             }
         },
         {
-            "Key": "aef88ee0-60f4-468a-8447-728e746567d3",
+            "Key": "a925a7be-7cdf-48a6-9032-b242b72f97cc",
             "Value": {
-                "id": "af98d304-47a5-4a50-8286-4092398e9ce7",
-                "resourcePath": "objects\\Inventaire_Case\\Inventaire_Case.yy",
+                "id": "701c7960-9146-4ec4-9415-87c75708fb24",
+                "resourcePath": "objects\\Case_Creator\\Case_Creator.yy",
                 "resourceType": "GMObject"
             }
         },
