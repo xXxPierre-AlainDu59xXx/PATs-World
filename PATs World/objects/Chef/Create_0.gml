@@ -18,7 +18,7 @@ tailleGroupe = 0;
 tailleGroupeMax = niveau*5;
 
 //Variable sprite Chef
-Chief = 0;
+sprChef = 0;
 
 //Variables déplacements
 pointsDeplacements = ceil(2 + endurance/2);
