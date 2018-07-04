@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "380699de-0a64-47b3-9af6-3470f96f309c",
+            "Value": {
+                "id": "f706998c-64a3-4594-9bbf-1bf9b0860b2c",
+                "resourcePath": "objects\\Highlight\\Highlight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3b746d7f-7ac4-40c8-8e3e-21c572fee8e1",
             "Value": {
                 "id": "1fe69674-ea25-47ee-8780-e95845dbd856",
@@ -115,6 +123,14 @@
             "Value": {
                 "id": "fb22f608-47ca-42a5-9e2e-816bc0d1605c",
                 "resourcePath": "sprites\\spr_Button_Turn\\spr_Button_Turn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "61fdb3e8-ba86-4f96-8328-b3f5cdc2a149",
+            "Value": {
+                "id": "a05cfd3d-c29c-4517-a3ce-5776b5397bde",
+                "resourcePath": "sprites\\spr_Highlight\\spr_Highlight.yy",
                 "resourceType": "GMSprite"
             }
         },

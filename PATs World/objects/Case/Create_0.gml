@@ -11,3 +11,6 @@ occupation = 0;
 random_set_seed(date_current_datetime());
 randomize();
 rand = irandom_range(1, 100);
+
+//Variables clic case
+stateCase = 0;
