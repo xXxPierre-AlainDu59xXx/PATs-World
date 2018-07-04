@@ -7,4 +7,7 @@ typeStockage = 0;
 nombreStockage = 0;
 occupation = 0;
 
-rand = irandom_range(0, 4);
+//Variables création map
+random_set_seed(date_current_datetime());
+randomize();
+rand = irandom_range(1, 100);

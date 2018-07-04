@@ -23,3 +23,6 @@ if (stateButton == 1)
 {
 	sprite_index = spr_Button_Turn2;
 }
+
+image_xscale = 4;
+image_yscale = 4;
