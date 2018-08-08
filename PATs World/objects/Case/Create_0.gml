@@ -1,6 +1,6 @@
 /// @description Variables Case
-// Vous pouvez écrire votre code dans cet éditeur
 
+//Variable d'instance
 idCase = 0;
 typeCase = 0;
 typeStockage = 0;
