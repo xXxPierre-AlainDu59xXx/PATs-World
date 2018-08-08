@@ -24,8 +24,9 @@ else if (rand > 60 && rand <= 100)
 
 if (mouse_check_button(mb_left))
 {
-    if((mouse_x + 13 > x) && (mouse_x - 13 < x) && (mouse_y + 13 > y) && (mouse_y - 13 < y))
+    if((mouse_x + 15 > x) && (mouse_x - 15 < x) && (mouse_y + 13 > y) && (mouse_y - 13 < y))
     {
+		instance_destroy(instance_nearest(x, y, Highlight));
 		instance_create_layer(x,y, "Chef", Highlight);
 		stateCase = 1;
 	}

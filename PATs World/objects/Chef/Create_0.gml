@@ -22,3 +22,5 @@ sprChef = 0;
 
 //Variables déplacements
 pointsDeplacements = ceil(2 + endurance/2);
+deplacementsFaits = 0;
+deplacementsRestants = pointsDeplacements - deplacementsFaits;
