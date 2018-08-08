@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "3a4b72e1-f3de-46da-8802-19baab56dbe2",
+            "Value": {
+                "id": "10d09ce2-8bb2-4565-aa64-735a9213e799",
+                "resourcePath": "sprites\\spr_Case_Hitbox\\spr_Case_Hitbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3b746d7f-7ac4-40c8-8e3e-21c572fee8e1",
             "Value": {
                 "id": "1fe69674-ea25-47ee-8780-e95845dbd856",

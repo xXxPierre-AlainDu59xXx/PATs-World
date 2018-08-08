@@ -1029,7 +1029,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_161C9569","id": "4f20cfe4-b661-45ad-99eb-8ae27ae6b531","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_161C9569","objId": "144d5644-f1f0-4856-8f39-9bee5f6e4076","properties": null,"rotation": 0,"scaleX": 7.703125,"scaleY": 7.859375,"mvc": "1.0","x": 1280,"y": 320}
+{"name": "inst_161C9569","id": "4f20cfe4-b661-45ad-99eb-8ae27ae6b531","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_161C9569","objId": "144d5644-f1f0-4856-8f39-9bee5f6e4076","properties": null,"rotation": 0,"scaleX": 7.703125,"scaleY": 7.859375,"mvc": "1.0","x": 720,"y": 347}
             ],
             "layers": [
 
@@ -1055,7 +1055,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_5A1C9CAA","id": "ba45c8a7-535e-4d32-b91e-a437575281bb","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5A1C9CAA","objId": "1e057d66-e4d5-4213-82c7-f7e8c0a56940","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 16,"y": 16}
+{"name": "inst_5A1C9CAA","id": "ba45c8a7-535e-4d32-b91e-a437575281bb","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5A1C9CAA","objId": "1e057d66-e4d5-4213-82c7-f7e8c0a56940","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 127,"y": 42}
             ],
             "layers": [
 
@@ -1072,8 +1072,8 @@
             "name": "Map",
             "id": "33c8715f-9c16-4fd0-a763-9ad9df6cd3d5",
             "depth": 300,
-            "grid_x": 32,
-            "grid_y": 32,
+            "grid_x": 1,
+            "grid_y": 1,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,
@@ -2075,10 +2075,10 @@
             "id": "c150c6f8-096d-4c39-88fd-1387c9b3ceaa",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4294967295 },
             "depth": 400,
-            "grid_x": 32,
-            "grid_y": 32,
+            "grid_x": 1,
+            "grid_y": 1,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "hspeed": 0,

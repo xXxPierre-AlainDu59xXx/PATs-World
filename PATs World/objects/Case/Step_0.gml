@@ -22,7 +22,7 @@ else if (rand > 60 && rand <= 100)
 		sprite_index = spr_Desert;
 }
 
-if (mouse_check_button(mb_left))
+if (mouse_check_button_pressed(mb_left))
 {
     if((mouse_x + 15 > x) && (mouse_x - 15 < x) && (mouse_y + 13 > y) && (mouse_y - 13 < y))
     {

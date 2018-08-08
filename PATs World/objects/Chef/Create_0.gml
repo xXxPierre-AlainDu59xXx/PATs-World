@@ -15,7 +15,7 @@ niveau = charisme + habilite + endurance + force;
 
 //Variables groupe
 tailleGroupe = 0;
-tailleGroupeMax = niveau*5;
+tailleGroupeMax = niveau * 5;
 
 //Variable sprite Chef
 sprChef = 0;
