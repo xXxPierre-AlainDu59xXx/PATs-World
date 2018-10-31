@@ -1,6 +1,0 @@
-<cmrequest cmd="4" instance="D6E06683-52EA-4329-8C14-EACB1B1D1DED" session="">
-  <fingerprint>101.0</fingerprint>
-  <objectguid>8f5480d1-3b9b-4f4b-ad69-d774e9af2a31</objectguid>
-  <domainfqdn>urm.test</domainfqdn>
-  <cfgid>minisync</cfgid>
-</cmrequest>
