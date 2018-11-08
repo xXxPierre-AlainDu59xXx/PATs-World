@@ -25,5 +25,9 @@
     "properties": null,
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
+<<<<<<< HEAD
     "visible": true
+=======
+    "visible": false
+>>>>>>> parent of 0b29438... oui
 }
