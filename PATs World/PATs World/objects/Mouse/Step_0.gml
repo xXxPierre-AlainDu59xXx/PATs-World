@@ -1,6 +1,6 @@
 /// @description Insert description here
 //Highlight case
-
+/*
 if(position_meeting(mouse_x,mouse_y,Case) && mouse_check_button_pressed(mb_left))
 {
 	(instance_nearest(mouse_x,mouse_y,Case)).stateCase ++;
@@ -15,3 +15,4 @@ else if((instance_nearest(mouse_x,mouse_y,Case)).stateCase = 2)
 	instance_destroy(instance_nearest(mouse_x,mouse_y,Highlight));
 	//(instance_nearest(mouse_x,mouse_y,Case)).stateCase -= 2;
 }
+**/

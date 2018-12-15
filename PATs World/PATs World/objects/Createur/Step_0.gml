@@ -3,7 +3,8 @@
 instance_create_layer(posx,posy,"Map",Case);
 
 posx += 32;
-
+for(i = 0; i < 120; i++)
+{
 if(posy <= room_height)
 {
 	if(posx >= room_width)
@@ -52,6 +53,7 @@ if(number > compteur)
 				state = state * -1;
 		}
 	}
+}
 }
 /*
 if(mouse = 0)

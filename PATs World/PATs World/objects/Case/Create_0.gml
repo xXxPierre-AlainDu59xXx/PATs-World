@@ -36,3 +36,5 @@ else if (rand > 60 && rand <= 100)
 {
 	sprite_index = spr_Desert;
 }
+
+this = instance_nearest(x,y,Case);
